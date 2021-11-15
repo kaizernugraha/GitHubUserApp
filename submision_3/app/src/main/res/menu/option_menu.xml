@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:menuCategory="container">
+        <item
+            android:id="@+id/favorite_menu"
+            android:title="Favorite"
+            android:icon="@drawable/icon_fav_white"
+            app:showAsAction="always"/>
+
+        <item
+            android:id="@+id/setting_menu"
+            android:title="Settings"
+            android:icon="@drawable/icon_settings"
+            app:showAsAction="always"/>
+
+        <item
+            android:id="@+id/action_change_settings"
+            android:title="@string/change_language_settings"
+            app:showAsAction="never"/>
+    </group>
+
+</menu>

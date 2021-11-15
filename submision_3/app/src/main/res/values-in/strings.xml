@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="users_username">Nama Pengguna</string>
+    <string name="users_name">Nama</string>
+    <string name="users_location">Lokasi</string>
+    <string name="users_company">Perusahaan</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+
+    <string name="search">Cari Users..</string>
+    <string name="setting_app">Pengaturan</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="add_favorite">"User Di Favoritkan"</string>
+    <string name="delete_favorite">"User tidak Favoritkan"</string>
+    <string name="empty_favorite">Data Kosong</string>
+    <string name="reminder_setting">Pengaturan Pengingat</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="daily_message">Cari user favorite baru di Github</string>
+    <string name="theme_setting">Pengaturan Tema</string>
+    <string name="dark_mode">Mode Gelap</string>
+
+
+    <string name="show_message_succes">Data Berhasill di Muat....</string>
+    <string name="show_message_failure">Data Gagal di Muat....!!</string>
+    <string name="number_repo">01</string>
+    <string name="number_followers">01</string>
+    <string name="number_followings">01</string>
+
+    <string name="user_image">gambar pengguna</string>
+    <string name="github_user_app">Github User App</string>
+
+</resources>

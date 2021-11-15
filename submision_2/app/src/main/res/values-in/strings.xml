@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="users_username">Nama Pengguna</string>
+    <string name="users_name">Nama</string>
+    <string name="users_location">Lokasi</string>
+    <string name="users_company">Perusahaan</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+
+    <string name="search">Cari Users..</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string name="show_message_succes">Data Berhasill di Muat....</string>
+    <string name="show_message_failure">Data Gagal di Muat....!!</string>
+
+</resources>

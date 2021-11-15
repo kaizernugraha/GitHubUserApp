@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">consumersApp</string>
+
+    <string name="users_username">username</string>
+    <string name="users_name">full_name</string>
+    <string name="users_location">users_location</string>
+    <string name="users_company">users_company,</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="theme_setting">Theme Setting</string>
+    <string name="dark_mode">dark mode</string>
+    <string name="setting_app">Settings</string>
+    <string name="change_language_settings">Change Language Settings</string>
+
+</resources>

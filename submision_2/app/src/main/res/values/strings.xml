@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+
+    <string name="users_username">username</string>
+    <string name="users_name">full_name</string>
+    <string name="users_location">users_location</string>
+    <string name="users_company">users_company,</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+
+    <string name="search">Search Users..!</string>
+    <string name="change_language_settings">Change Language Settings</string>
+
+    <string name="show_message_succes">Data loaded successfully...</string>
+    <string name="show_message_failure">failed to load!!</string>
+
+
+</resources>

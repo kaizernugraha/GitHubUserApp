@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+
+    <string name="users_username">username</string>
+    <string name="users_name">full_name</string>
+    <string name="users_location">users_location</string>
+    <string name="users_company">users_company,</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+
+    <string name="search">Search Users..!</string>
+    <string name="setting_app">Settings</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="add_favorite">"Added Favorite"</string>
+    <string name="delete_favorite">"Deleted Favorite"</string>
+    <string name="empty_favorite">Empty Data</string>
+    <string name="reminder_setting">Reminder Setting</string>
+    <string name="daily_reminder">Set Daily Reminder</string>
+    <string name="daily_message">Find new favorite user on Github</string>
+    <string name="theme_setting">Theme Setting</string>
+    <string name="dark_mode">dark mode</string>
+
+    <string name="show_message_succes">Data loaded successfully...</string>
+    <string name="show_message_failure">failed to load!!</string>
+
+    <string name="number_repo">01</string>
+    <string name="number_followers">01</string>
+    <string name="number_followings">01</string>
+
+    <string name="user_image">user_image</string>
+    <string name="github_user_app">Github User App</string>
+
+
+</resources>
